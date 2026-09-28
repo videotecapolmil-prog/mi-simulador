@@ -1,0 +1,27 @@
+﻿[
+  {
+    "q": "¿Cuál es la capital de Francia?",
+    "options": ["Madrid", "París", "Londres"],
+    "correct": 1
+  },
+  {
+    "q": "¿Cuánto es 5 + 5?",
+    "options": ["8", "12", "10"],
+    "correct": 2
+  },
+  {
+    "q": "¿Qué planeta es conocido como el planeta rojo?",
+    "options": ["Marte", "Venus", "Júpiter"],
+    "correct": 0
+  },
+  {
+    "q": "¿Cuál es el tercer planeta del sistema solar?",
+    "options": ["Marte", "Tierra", "Saturno"],
+    "correct": 1
+  },
+  {
+    "q": "¿Qué idioma se habla en Brasil?",
+    "options": ["Español", "Portugués", "Inglés"],
+    "correct": 1
+  }
+]
